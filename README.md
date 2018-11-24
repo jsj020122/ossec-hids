@@ -8,6 +8,9 @@ SIM/SIEM together in a simple, powerful and open source solution.
 
 Visit our website for the latest information.  [ossec.github.io](http://ossec.github.io)
 
+PS:
+这个技术用的很一般，进程都是快照，网络都是netstat，分析文本日志，分析windows EventLog，快照主要的注册表项。这个项目的重点应该是规则和策略可以参考
+具体目录  /etc中的规则  和 src\rootcheck\db中监控的具体部分
 
 
 ## Current Releases 
